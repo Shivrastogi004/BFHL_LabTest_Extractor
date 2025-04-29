@@ -83,7 +83,7 @@
       formData.append("file", file);
 
       try {
-        const response = await fetch("https://bfhl-labtest-extractor.up.railway.app/get-lab-tests", {
+        const response = await fetch("bfhllabtestextractor-production.up.railway.app", {
           method: "POST",
           body: formData
         });
