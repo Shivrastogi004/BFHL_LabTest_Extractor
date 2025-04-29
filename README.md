@@ -27,8 +27,8 @@ This project extracts lab test names, values, units, and biological reference ra
 ### 💻 Local Setup
 
 ```bash
-git clone https://github.com/Shivrastogi004/outputs.git
-cd outputs
+git clone https://github.com/Shivrastogi004.git
+cd BFHL_LabTest_Extractor
 
 # Create and activate virtual environment (optional)
 python -m venv venv
