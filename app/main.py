@@ -1,9 +1,8 @@
 from fastapi import FastAPI, File, UploadFile
 from fastapi.responses import FileResponse, JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
-from ocr_extraction import extract_text_from_image
-from parsing_logic import parse_lab_tests
-
+from app.parsing_logic import parse_lab_tests
+from app.ocr_extraction import extract_text_from_image
 import os, uuid, shutil, json
 
 app = FastAPI()
