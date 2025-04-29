@@ -1,0 +1,89 @@
+{
+    "is_success": true,
+    "data": [
+        {
+            "test_name": "HEE BLOOD COUNT (CBC)",
+            "test_value": 424.0,
+            "bio_reference_range": "13.0-17.0",
+            "test_unit": "gm/dl",
+            "lab_test_out_of_range": true
+        },
+        {
+            "test_name": "Photometry",
+            "test_value": 42.5,
+            "bio_reference_range": "40-50",
+            "test_unit": "%",
+            "lab_test_out_of_range": false
+        },
+        {
+            "test_name": "Calculated",
+            "test_value": 4.9,
+            "bio_reference_range": "4.5-5.5",
+            "test_unit": "mill/emm",
+            "lab_test_out_of_range": false
+        },
+        {
+            "test_name": "Electrical Impedence",
+            "test_value": 86.7,
+            "bio_reference_range": "83-101",
+            "test_unit": "fl",
+            "lab_test_out_of_range": false
+        },
+        {
+            "test_name": "Calculated",
+            "test_value": 24.7,
+            "bio_reference_range": "27-33",
+            "test_unit": "pg",
+            "lab_test_out_of_range": true
+        },
+        {
+            "test_name": "Calculated",
+            "test_value": 28.5,
+            "bio_reference_range": "32-38",
+            "test_unit": "%",
+            "lab_test_out_of_range": true
+        },
+        {
+            "test_name": "Calculated",
+            "test_value": 13600.0,
+            "bio_reference_range": "4000-11000",
+            "test_unit": "cells/cumm",
+            "lab_test_out_of_range": true
+        },
+        {
+            "test_name": "Flow Cytometry",
+            "test_value": 66.0,
+            "bio_reference_range": "50-70",
+            "test_unit": "%",
+            "lab_test_out_of_range": false
+        },
+        {
+            "test_name": "FCM/ Microscopy",
+            "test_value": 24.0,
+            "bio_reference_range": "20-40",
+            "test_unit": "%",
+            "lab_test_out_of_range": false
+        },
+        {
+            "test_name": "FCM/ Microscopy",
+            "test_value": 4.0,
+            "bio_reference_range": "1-6",
+            "test_unit": "%",
+            "lab_test_out_of_range": false
+        },
+        {
+            "test_name": "FCM/ Microscopy",
+            "test_value": 6.0,
+            "bio_reference_range": "0-10",
+            "test_unit": "%",
+            "lab_test_out_of_range": false
+        },
+        {
+            "test_name": "Absolute Differential Count ",
+            "test_value": 8976.0,
+            "bio_reference_range": "2000-7000",
+            "test_unit": "/cumm",
+            "lab_test_out_of_range": true
+        }
+    ]
+}

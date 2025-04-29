@@ -1,0 +1,12 @@
+{
+    "is_success": true,
+    "data": [
+        {
+            "test_name": "CRP REPORT",
+            "test_value": 267.8,
+            "bio_reference_range": "0-5",
+            "test_unit": "mg/L",
+            "lab_test_out_of_range": true
+        }
+    ]
+}

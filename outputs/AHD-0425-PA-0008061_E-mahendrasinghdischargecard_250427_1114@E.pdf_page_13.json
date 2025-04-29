@@ -1,0 +1,26 @@
+{
+    "is_success": true,
+    "data": [
+        {
+            "test_name": "Hemoglobin",
+            "test_value": 11.6,
+            "bio_reference_range": "13.0-17.0",
+            "test_unit": "yin/dl",
+            "lab_test_out_of_range": true
+        },
+        {
+            "test_name": "FOM/ Microsce PY",
+            "test_value": 4.0,
+            "bio_reference_range": "1-6",
+            "test_unit": "%",
+            "lab_test_out_of_range": false
+        },
+        {
+            "test_name": "Absolute Differential Count ",
+            "test_value": 6072.0,
+            "bio_reference_range": "2000-7000",
+            "test_unit": "/cumm",
+            "lab_test_out_of_range": false
+        }
+    ]
+}

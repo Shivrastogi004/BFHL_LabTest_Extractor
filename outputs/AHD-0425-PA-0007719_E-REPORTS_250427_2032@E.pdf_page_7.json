@@ -1,0 +1,40 @@
+{
+    "is_success": true,
+    "data": [
+        {
+            "test_name": "COMPLETE BLOOD COUNT",
+            "test_value": 3.19,
+            "bio_reference_range": "4.5-5.5",
+            "test_unit": "mill/comm",
+            "lab_test_out_of_range": true
+        },
+        {
+            "test_name": "cv)",
+            "test_value": 10560.0,
+            "bio_reference_range": "4000-10000",
+            "test_unit": "/ul",
+            "lab_test_out_of_range": true
+        },
+        {
+            "test_name": "DIFFERENTIAL COUNT ",
+            "test_value": 87.7,
+            "bio_reference_range": "40-70",
+            "test_unit": "%",
+            "lab_test_out_of_range": true
+        },
+        {
+            "test_name": "PLATELETS",
+            "test_value": 370.0,
+            "bio_reference_range": "150-450",
+            "test_unit": "Jul",
+            "lab_test_out_of_range": false
+        },
+        {
+            "test_name": "ABSOLUTE COUNTS",
+            "test_value": 9261.12,
+            "bio_reference_range": "1575-8800",
+            "test_unit": "ful",
+            "lab_test_out_of_range": true
+        }
+    ]
+}
