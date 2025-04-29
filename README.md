@@ -42,9 +42,28 @@ uvicorn main:app --reload
 ```
 ---
 ### 🌐 Frontend Web App
-Open static/index.html in your browser
+Open ```static/index.html``` in your browser
 
 Upload lab report image
 
 JSON will be automatically downloaded
 ---
+📁 Project Structure
+```bash
+Copy
+Edit
+├── app/
+│   ├── main.py               # FastAPI routes
+│   ├── ocr_extraction.py     # OCR logic
+│   ├── parsing_logic.py      # Parsing logic for test data
+│   ├── utils.py              # Reference range checking
+├── static/index.html         # Web UI for uploading image
+├── uploads/                  # Temporary uploaded images
+├── outputs/                  # Output JSONs
+├── requirements.txt
+├── main.py                   # Entry point for uvicorn
+```
+---
+🧑‍💻 Made By
+Shiv Rastogi
+
